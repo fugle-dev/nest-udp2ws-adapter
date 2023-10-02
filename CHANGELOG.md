@@ -1,5 +1,12 @@
 # Changelog
 
+# [0.2.0](https://github.com/fugle-dev/nest-udp2ws-adapter/compare/v0.1.0...v0.2.0) (2023-10-02)
+
+
+### Features
+
+* allow the websocket gateway to use the http port ([36ef2c0](https://github.com/fugle-dev/nest-udp2ws-adapter/commit/36ef2c0e2f23f5e1a554979eb0a781d13b902f6e))
+
 # 0.1.0 (2023-10-01)
 
 
