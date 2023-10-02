@@ -3740,7 +3740,7 @@ neo-async@^2.6.2:
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
 "nest-udp2ws-adapter@file:..":
-  version "0.0.1"
+  version "0.1.0"
 
 node-abort-controller@^3.0.1:
   version "3.1.1"

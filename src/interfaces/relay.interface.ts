@@ -3,5 +3,5 @@ import { WebSocketServer } from 'ws';
 
 export interface Relay {
   socket: Socket;
-  wss: WebSocketServer;
+  wsServer: WebSocketServer;
 }
