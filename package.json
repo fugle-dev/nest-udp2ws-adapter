@@ -1,6 +1,6 @@
 {
   "name": "nest-udp2ws-adapter",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Nest WebSocket adapter for relaying UDP packets to ws server",
   "author": "Chun-Kai Wang <chunkai1312@gmail.com>",
   "keywords": [
